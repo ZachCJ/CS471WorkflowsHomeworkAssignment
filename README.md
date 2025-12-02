@@ -121,4 +121,6 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 </details>
 
 ## Step 7 - Canvas
+
+Modification #1 Part2
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
